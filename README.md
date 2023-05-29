@@ -33,7 +33,8 @@
 #### 8、Ping，支持多ping，最多支持4个。
 [![](material/9.png)](material/9.png "markdown")
 
-
+### 软件下载
+软件在software文件夹下，解压后，便可使用
 
 ### ·链接
 [知乎链接](https://www.wdphp.com/)

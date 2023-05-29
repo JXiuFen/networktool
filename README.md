@@ -1,11 +1,11 @@
 # 网络检测工具
-使用python tkinter库开发的一款GUI界面，网络检测工具。
-软件功能：
-1、查看本机网络参数信息，支持多网卡。
-2、ping功能，支持多ping，目前仅支持4个。
-3、tracert路由追踪功能。
-4、清除本地NDS缓存。
-5、系统CMD窗口。
+使用python tkinter库开发的一款GUI界面，网络检测工具。<br/>
+##### 软件功能：
+1、查看本机网络参数信息，支持多网卡。<br/>
+2、ping功能，支持多ping，目前仅支持4个。<br/>
+3、tracert路由追踪功能。<br/>
+4、清除本地NDS缓存。<br/>
+5、系统CMD窗口。<br/>
 ### 软件界面
 [![](material/1.png)](material/1.png "markdown")
 
